@@ -1,6 +1,4 @@
-# Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
-
-### DATE: 
+# Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE 
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
@@ -59,8 +57,5 @@
 ## Playing with axes:
 
 ![image](https://github.com/Hariveeraprasad-2006/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/145049988/e09e45a7-597c-456e-b0b3-b610aac17087)
-### Name:ARIKATLA HARI VEERA PRASAD
-### Register Number:23009466
-
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
